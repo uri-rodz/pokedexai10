@@ -1,0 +1,305 @@
+{ 
+ "pokemon":
+[
+ {
+  "num": "01",
+  "nombre": "Bulbasaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "02",
+  "nombre": "Ivysaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/002.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "03",
+  "nombre": "Venusaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/003.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "04",
+  "nombre": "Charmander",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/004.png",
+  "tipo": "Fuego"
+ },
+{
+  "num": "05",
+  "nombre": "Charmeleon",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/005.png",
+  "tipo": "Fuego"
+ },
+{
+  "num": "06",
+  "nombre": "Charizard",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/006.png",
+  "tipo": "Fuego y Volador"
+ },
+{
+  "num": "07",
+  "nombre": "Squirtle",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/007.png",
+  "tipo": "Agua"
+ },
+{
+  "num": "08",
+  "nombre": "Wartortle",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/008.png",
+  "tipo": "Agua"
+ },
+{
+  "num": "09",
+  "nombre": "Blastoise",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/009.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "10",
+  "nombre": "Caterpie",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/010.png",
+  "tipo": "Bicho"
+ },
+  {
+    "num": "11",
+    "nombre": "Metapod",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/011.png",
+    "tipo": "Bicho"
+  },
+  {
+    "num": "12",
+    "nombre": "Butterfree",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/012.png",
+    "tipo": "Bicho - volador"
+  },
+  {
+    "num": "13",
+    "nombre": "Weedle",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/013.png",
+    "tipo": "Bicho - veneno"
+  },
+  {
+    "num": "14",
+    "nombre": "Kakuna",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/014.png",
+    "tipo": "Bicho - veneno"
+  },
+  {
+    "num": "15",
+    "nombre": "Beedrill",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/015.png",
+    "tipo": "Bicho - veneno"
+  },
+  {
+    "num": "16",
+    "nombre": "Pidgey",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/016.png",
+    "tipo": "Normal - volador"
+  },
+  {
+    "num": "17",
+    "nombre": "Pidgeotto",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/017.png",
+    "tipo": "Normal - volador"
+  },
+  {
+    "num": "18",
+    "nombre": "Pidgeot",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/018.png",
+    "tipo": "Normal - volador"
+  },
+  {
+    "num": "19",
+    "nombre": "Rattata",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/019.png",
+    "tipo": "Normal"
+  },
+  {
+    "num": "20",
+    "nombre": "Raticate",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/020.png",
+    "tipo": "Normal"
+  },
+  {
+    "num": "21",
+    "nombre": "Spearow",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/021.png",
+    "tipo": "Normal - volador"
+  },
+  {
+    "num": "22",
+    "nombre": "Fearow",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/022.png",
+    "tipo": "Normal - volador"
+  },
+  {
+    "num": "23",
+    "nombre": "Ekans",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/023.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "24",
+    "nombre": "Arbok",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/024.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "25",
+    "nombre": "Pikachu",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "tipo": "Electrico"
+  },
+  {
+    "num": "26",
+    "nombre": "Raichu",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/026.png",
+    "tipo": "Electrico"
+  },
+  {
+    "num": "27",
+    "nombre": "Sandshrew",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/027.png",
+    "tipo": "Tierra"
+  },
+  {
+    "num": "28",
+    "nombre": "Ekans",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/028.png",
+    "tipo": "Tierra"
+  },
+  {
+    "num": "29",
+    "nombre": "Nidoran",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/029.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "30",
+    "nombre": "Nidorina",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/030.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "31",
+    "nombre": "Nidoqueen",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/031.png",
+    "tipo": "Veneno - Tierra"
+  },
+  {
+    "num": "32",
+    "nombre": "Nidoran",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/032.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "33",
+    "nombre": "Nidorino",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/033.png",
+    "tipo": "Veneno"
+  },
+  {
+    "num": "34",
+    "nombre": "Nidoking",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/034.png",
+    "tipo": "Veneno - Tierra"
+  },
+  {
+    "num": "35",
+    "nombre": "Clefairy",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/035.png",
+    "tipo": "Hada"
+  },
+  {
+    "num": "36",
+    "nombre": "Clefable",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/036.png",
+    "tipo": "Hada"
+  },
+  {
+    "num": "37",
+    "nombre": "Vulpix",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/037.png",
+    "tipo": "Fuego"
+  },
+  {
+    "num": "38",
+    "nombre": "Ninetales",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/038.png",
+    "tipo": "Fuego"
+  },
+  {
+    "num": "39",
+    "nombre": "Jigglypuff",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/039.png",
+    "tipo": "Normal - Hada"
+  },
+  {
+    "num": "40",
+    "nombre": "Wigglytuff",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/040.png",
+    "tipo": "Normal - Hada"
+  },
+  {
+    "num": "41",
+    "nombre": "Zubat",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/041.png",
+    "tipo": "Veneno - volador"
+  },
+  {
+    "num": "42",
+    "nombre": "Golbat",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/042.png",
+    "tipo": "Veneno - volador"
+  },
+  {
+    "num": "43",
+    "nombre": "Oddish",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/043.png",
+    "tipo": "Planta - veneno"
+  },
+  {
+    "num": "44",
+    "nombre": "Gloom",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/044.png",
+    "tipo": "Planta - veneno"
+  },
+  {
+    "num": "45",
+    "nombre": "Vileplume",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/045.png",
+    "tipo": "Planta - veneno"
+  },
+  {
+    "num": "46",
+    "nombre": "Paras",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/046.png",
+    "tipo": "Bicho - planta"
+  },
+  {
+    "num": "47",
+    "nombre": "Parasect",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/047.png",
+    "tipo": "Bicho - planta"
+  },
+  {
+    "num": "48",
+    "nombre": "Venonat",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/048.png",
+    "tipo": "Bicho - veneno"
+  },
+  {
+    "num": "49",
+    "nombre": "Parasect",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/049.png",
+    "tipo": "Bicho - veneno"
+  },
+  {
+    "num": "50",
+    "nombre": "Diglett",
+    "imagen": "http://www.serebii.net/pokemongo/pokemon/050.png",
+    "tipo": "Tierra"
+  }
+]
+} 
